@@ -8,3 +8,4 @@ elif total_gastos_pedro > total_gastos_joao:
     print("Pedro gastou mais dinheiro este mês.")
 else:
     print("João e Pedro gastaram a mesma quantia este mês.")
+    #teste, teste
